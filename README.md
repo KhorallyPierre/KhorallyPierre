@@ -19,45 +19,53 @@ I am a Boston-based full-stack engineer; motivated by the power of technology as
 
 See [my website](https://khorallypierre.com) for more information!
 
----
+* * *
 
 ## Projects
 
 <table bordercolor="#66b2b2">
+
+
+
+<table>
   <tr>
-    <td width="33%" valign="top">
-      <h3> Portfolio</h3>
-        <br />
-        <p><a target="_blank" href="https://github.com/KhorallyPierre/Portfolio">Repo</a> // <a target="_blank" href="http://www.khorallypierre.org">Site</a></p>
-        <br />
-        <a target="_blank" href="http://www.khorallypierre.org">
-            <img src="images/portfolio.png" width="100%" alt="khorallypierre.com"/>
-        </a>
-        <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+  <td width="33%" valign="top">
+    <h3> Portfolio</h3>
+      <br />
+      <p><a target="_blank" href="https://github.com/KhorallyPierre/Portfolio">Repo</a> // <a target="_blank" href="http://www.khorallypierre.org">Site</a></p>
+      <br />
+      <a target="_blank" href="http://www.khorallypierre.org">
+          <img src="images/portfolio.png" width="100%" alt="khorallypierre.com"/>
+      </a>
+      <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
 
-    </td>
-    <td width="33%" valign="top">
-      <h3> To-Do List Express </h3>
-        <br />
-        <p><a target="_blank" href="https://github.com/KhorallyPierre/Khorallys-ToDo-List-Express">Repo</a> // <a target="_blank" href="https://khorallypexpress.herokuapp.com/">Site</a></p>
-        <br />
-        <a target="_blank" href="https://khorallypexpress.herokuapp.com/">
-            <img src="images/gif4.png" width="100%" alt="Portfolio"/>
-        </a>
-          <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help keep track of your daily to-dos, along with a feature to clear your list when you're done!</p>
+  </td>
 
-    </td>
+  <td width="33%" valign="top">
+    <h3> To-Do List Express </h3>
+      <br />
+      <p><a target="_blank" href="https://github.com/KhorallyPierre/Khorallys-ToDo-List-Express">Repo</a> // <a target="_blank" href="https://khorallypexpress.herokuapp.com/">Site</a></p>
+      <br />
+      <a target="_blank" href="https://khorallypexpress.herokuapp.com/">
+          <img src="images/gif4.png" width="100%" alt="Portfolio"/>
+      </a>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help keep track of your daily to-dos, along with a feature to clear your list when you're done.</p>
+
+  </td>
   </tr>
 </table>
+
+
+
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Rigley 2: "Code Lyoko Fan Site!"</h3>
+      <h3> "Code Lyoko Fan Site!"</h3>
         <br />
         <p><a target="_blank" href="https://github.com/KhorallyPierre/Code-Lyoko-Login">Repo</a> // <a target="_blank" href="https://fast-chamber-70856.herokuapp.com/">Site</a></p>
         <br />
         <a target="_blank" href="https://fast-chamber-70856.herokuapp.com/">
-            <img src="images/packground2.jpg" width="100%"  height="265px" alt="Rigley 2"/>
+            <img src="images/packground2.jpg" width="100%"  height="265px" alt="Code Lyoko fan site"/>
         </a>
         <p><strong>Javascript & Phaser.js</strong> - The awaited Code Lyoko fan page! Upload your favorite Lyoko warrior, and unlock your very first mission when you log in! </p>
     </td>
