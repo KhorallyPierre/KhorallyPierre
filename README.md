@@ -104,9 +104,6 @@ See [my website](https://khorallypierre.com) for more information! </p>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=66b2b2" alt="javascript"> <br/>
-      <img src="https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=66b2b2" alt="ruby"> <br/>
-      <img src="https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=66b2b2" alt="dart"> <br/>
-      <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=66b2b2" alt="python"> <br/>
     </td>
     <td>
       <img src="https://img.shields.io/badge/Web%20Dev-React-informational?style=flat&logo=react&logoColor=white&color=66b2b2" alt="react"> <br/>
@@ -118,7 +115,6 @@ See [my website](https://khorallypierre.com) for more information! </p>
     <td>
       <img src="https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=66b2b2" alt="git"> <br/>
       <img src="https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=66b2b2" alt="github"> <br/>
-      <img src="https://img.shields.io/badge/Tool-Bash-informational?style=flat&logo=GNU-bash&logoColor=white&color=66b2b2" alt="bash"> <br/>
       <img src="https://img.shields.io/badge/Tool-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=66b2b2" alt="netlify"> <br/>
     </td>
   </tr>
