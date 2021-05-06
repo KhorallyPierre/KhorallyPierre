@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://fluencykp.herokuapp.com/">
-    <img src="images/speak.png" width="30px;" alt="Twitter" />
+    <img src="images/speak.png" width="30px;" alt="Fluency" />
   </a>
 </p>
 
