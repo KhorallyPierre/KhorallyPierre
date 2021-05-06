@@ -14,9 +14,8 @@
   </a>
 
   <a href="https://fluencykp.herokuapp.com/">
-    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-globe.png" width="30px;" alt="Twitter" />
+    <img src="images/speak.png" width="30px;" alt="Twitter" />
   </a>
-  <h1> welcome to my GitHub! </h1>
 </p>
 
 I am a Boston-based full-stack engineer; motivated by the power of technology as a tool for positive change; and with a background in legal and education.
