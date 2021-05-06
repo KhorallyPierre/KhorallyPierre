@@ -12,6 +12,10 @@
   <a href="https://twitter.com/KhorallyPierre">
     <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
   </a>
+
+  <a href="https://fluencykp.herokuapp.com/">
+    <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-globe.png" width="30px;" alt="Twitter" />
+  </a>
   <h1> welcome to my GitHub! </h1>
 </p>
 
