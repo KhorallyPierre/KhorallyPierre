@@ -99,7 +99,7 @@ See [my website](https://khorallypierre.com) for more information! </p>
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="images/graph.jpg" alt="top languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafloyd&layout=compact&langs_count=6" alt="top languages">
       </a>
     </td>
     <td>
