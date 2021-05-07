@@ -97,7 +97,7 @@ See [my website](https://khorallypierre.com) for more information! </p>
 
 <table>
   <tr>
-    <td>
+    <td style="width:58%;">
       <a href="https://my.visme.co/view/w48zqojk-popular-languages">
         <img src="images/graph.jpg" alt="top languages">
       </a>
