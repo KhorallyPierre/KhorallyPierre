@@ -98,8 +98,8 @@ See [my website](https://khorallypierre.com) for more information! </p>
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafloyd&layout=compact&langs_count=6" alt="top languages">
+      <a href="https://my.visme.co/view/w48zqojk-popular-languages">
+        <img src="images/graph.jpg" alt="top languages">
       </a>
     </td>
     <td>
