@@ -40,7 +40,9 @@ See [my website](https://khorallypierre.com) for more information! </p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khorallypierre&layout=compact&langs_count=6&theme=gotham&hide_border=true" alt="top languages">
       </a>
     </td>
-
+    <td>
+      <img src="images/logo.png" alt="portfolio logo">
+    </td>
   </tr>
   <tr>
     <td>
