@@ -81,9 +81,9 @@ See [my website](https://khorallypierre.com) for more information! </p>
   <td width="33%" valign="top">
     <h3> Portfolio</h3>
       <br />
-      <p><a target="_blank" href="https://github.com/KhorallyPierre/Portfolio">Repo</a> // <a target="_blank" href="http://www.khorallypierre.org">Site</a></p>
+      <p><a target="_blank" href="https://github.com/KhorallyPierre/Portfolio">Repo</a> // <a target="_blank" href="http://www.khorallypierre.com">Site</a></p>
       <br />
-      <a target="_blank" href="http://www.khorallypierre.org">
+      <a target="_blank" href="http://www.khorallypierre.com">
           <img src="images/portfolio.png" width="100%" alt="khorallypierre.com"/>
       </a>
       <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
