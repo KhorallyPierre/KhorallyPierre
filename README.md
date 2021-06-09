@@ -18,13 +18,7 @@
   </a>
 </p>
 
-<p>Migrating from Haiti to the United States was a whirlwind, but it’s hurricane Katrina that forever changed my life’s trajectory. The day after the storm blew like an animal threatening to break in, I sat in the back seat of a beige Toyota, paralyzed by the screams of desperate citizens, swearing that they could see the water closing in.
-
-
-I felt as small as a 10-year-old could have felt at that moment, but unlike many, we survived this nightmare. As we traveled from state to state, shelter to shelter, sharing frameless mattresses and canned goods, I had grown accustomed to feeling numb.
-
-
-It was my desire to feel powerful that saved me. Committed to learning English, I not only became fluent but also fell in love with learning new languages. As a software engineer, I feel just as powerful when I build full-stack applications using computer languages. With words under my tongue and a keyboard under my fingers, I’d love to see a  storm try to uproot ME!
+Software Engineer. Reader of books. Plant mom.
 
 My name is Khorally Vhestah Pierre, browse my page to see my [language learning app](https://fluencykp.herokuapp.com/), and the many ways I will help your company overcome its own storms.
 
