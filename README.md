@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Software Engineer. Reader of books. Plant mom.
+Software engineer. Avid novel reader. Plant mom.
 
 My name is Khorally Vhestah Pierre, browse my page to see my [language learning app](https://fluencykp.herokuapp.com/), and the many ways I will help your company overcome its own storms.
 
@@ -82,19 +82,19 @@ See [my website](https://khorallypierre.com) for more information! </p>
       <a target="_blank" href="http://www.khorallypierre.com">
           <img src="images/portfolio.png" width="100%" alt="khorallypierre.com"/>
       </a>
-      <p><strong>HTML5, CSS3, Sass, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+      <p><strong>HTML5, CSS3, Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
 
   </td>
 
   <td width="33%" valign="top">
-    <h3> To-Do List Express </h3>
+    <h3> Fluency Language App </h3>
       <br />
-      <p><a target="_blank" href="https://github.com/KhorallyPierre/Khorallys-ToDo-List-Express">Repo</a> // <a target="_blank" href="https://khorallypexpress.herokuapp.com/">Site</a></p>
+      <p><a target="_blank" href="https://github.com/KhorallyPierre/Fluency-Demo-Day">Repo</a> // <a target="_blank" href="https://fluencykp.herokuapp.com/">Site</a></p>
       <br />
-      <a target="_blank" href="https://khorallypexpress.herokuapp.com/">
+      <a target="_blank" href="https://fluencykp.herokuapp.com/">
           <img src="images/gif4.png" width="100%" alt="Portfolio"/>
       </a>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help keep track of your daily to-dos, along with a feature to clear your list when you're done.</p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help learn new languages.</p>
 
   </td>
   </tr>
@@ -102,7 +102,7 @@ See [my website](https://khorallypierre.com) for more information! </p>
 
 
 
-<table>
+<!-- <table> -->
   <tr>
     <td width="33%" valign="top">
       <h3> "Code Lyoko Fan Site!"</h3>
