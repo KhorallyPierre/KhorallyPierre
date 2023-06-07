@@ -102,27 +102,3 @@ See [my website](https://khorallypierre.com) for more information! </p>
 
 
 
-<!-- <table> -->
-  <!-- <tr> -->
-    <td width="33%" valign="top">
-      <h3> "Code Lyoko Fan Site!"</h3>
-        <br />
-        <p><a target="_blank" href="https://github.com/KhorallyPierre/Code-Lyoko-Login">Repo</a> // <a target="_blank" href="https://fast-chamber-70856.herokuapp.com/">Site</a></p>
-        <br />
-        <a target="_blank" href="https://fast-chamber-70856.herokuapp.com/">
-            <img src="images/background2.jpg" width="100%"  height="265px" alt="Code Lyoko fan site"/>
-        </a>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited Code Lyoko fan page! Upload your favorite Lyoko warrior, and unlock your very first mission when you log in! </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3> Code Lyoko Matching Cards</h3>
-        <br />
-        <p><a target="_blank" href="https://github.com/KhorallyPierre/matching-card-code-lyoko/tree/answer">Repo</a> // <a target="_blank" href="https://wonderful-easley-4bdc4b.netlify.app/">Site</a></p>
-        <br />
-        <a target="_blank" href="https://wonderful-easley-4bdc4b.netlify.app/">
-          <img src="images/img.jpg" width="100%" alt="Matching Cards"/>
-        </a>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 10 different cards, test your memory in this code lyoko themes matching card game.</p>
-    </td>
-  </tr>
-</table>
