@@ -103,7 +103,7 @@ See [my website](https://khorallypierre.com) for more information! </p>
 
 
 <!-- <table> -->
-  <tr>
+  <!-- <tr> -->
     <td width="33%" valign="top">
       <h3> "Code Lyoko Fan Site!"</h3>
         <br />
