@@ -18,8 +18,6 @@
   </a>
 </p>
 
-Software engineer. Avid novel reader. Plant mom.
-
 My name is Khorally Vhestah Pierre, browse my page to see my [language learning app](https://fluencykp.herokuapp.com/), and the many ways I will help your company overcome its own storms.
 
 See [my website](https://khorallypierre.com) for more information! </p>
