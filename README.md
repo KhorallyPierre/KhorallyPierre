@@ -1,5 +1,5 @@
 <a href="https://khorallypierre.com/">
-  <img src="images/Github-header.gif" width="100%">
+  <img src="images/github-header.png" width="100%">
 </a>
 
 <p align="center">
