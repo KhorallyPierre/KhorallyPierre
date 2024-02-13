@@ -1,6 +1,6 @@
-<a href="https://khorallypierre.com/">
-  <img src="images/github-header.png" width="100%">
-</a>
+<!-- <a href="https://khorallypierre.com/">
+  <!-- <img src="images/github-header.png" width="100%"> -->
+</a> -->
 
 <p align="center">
   <a href="https://khorallypierre.com/">
