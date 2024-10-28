@@ -19,7 +19,7 @@
 </p>
 
 My name is Khorally Pierre, browse my page to see my [language learning app](https://fluencykp.herokuapp.com/). 
-Check out [my online portfolip](https://khorallypierre.com) for content writing samples </p>
+Check out [my online portfolio](https://khorallypierre.com) for content writing samples. </p>
 
 * * *
 ## Skills
